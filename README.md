@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Olá! Me chamo Diego Lima, sou Desenvolvedor Back-End de Teresópolis, RJ 🇧🇷.<br>Atualmente focado em **Java/Spring Boot** e **.NET/C#**, construindo APIs com<br>Clean Architecture e princípios SOLID. Busco minha primeira oportunidade como<br>Estágio ou Júnior na área de Back-End.</p>
+<p align="left">
+Olá! Me chamo Diego Lima, sou de Teresópolis, RJ, curso Engenharia de Software e tenho experiência como Suporte Técnico 🇧🇷.<br>
+Hoje desenvolvo APIs utilizando <strong>C#/ASP.NET</strong> e também possuo conhecimentos em <strong>Java/Spring Boot</strong>, aplicando conceitos como Clean Architecture e princípios SOLID.<br>
+Aqui você vai encontrar meus projetos e aplicações desenvolvidos com muito amor e carinho 🚀
+</p>
+
+
 
 ###
 
