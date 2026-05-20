@@ -12,7 +12,7 @@ Aqui você vai encontrar meus projetos e aplicações desenvolvidos com muito am
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dd2itlevt/image/upload/c_crop,g_north_west,h_1080,w_1080,x_85,y_89/Sakuke_github.png"  />
+<img align="right" height="150" src="https://res.cloudinary.com/dd2itlevt/image/upload/v1779279151/ChatGPT_Image_20_de_mai._de_2026_09_06_32_nwvhir.png"/> 
 
 ###
 
